@@ -1,0 +1,42 @@
+.home-page{
+    background-color: #987070;
+    height: 650px;
+    background-image: url(background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+.home-page > h1{
+    color: #F1E5D1;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.home-page > p{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 290;
+  font-style: normal;
+  color:#F1E5D1;
+}
+
+.journey{
+    margin: 0 auto; 
+    max-width: 800px; 
+}
+.list-group {
+  font-optical-sizing: auto;
+    margin: 0 auto; 
+    max-width: 800px; 
+    padding: 50px 0; 
+}
+.footer{
+    background-image: url(background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #F1E5D1;
+}
+.bi{
+    color:#F1E5D1;
+    margin-right: 60px;
+}
